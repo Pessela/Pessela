@@ -29,6 +29,15 @@
       src="https://img.shields.io/badge/GitHub-Pessela-181717?style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
+
+
+
+  <a href="https://portfolio-americo-chapua.vercel.app/" target="_blank">
+  <img
+    alt="Portefólio profissional de Américo Pessela Chapua"
+    src="https://img.shields.io/badge/Portef%C3%B3lio-Visitar-22e7a1?style=for-the-badge&logo=vercel&logoColor=111111"
+  />
+</a>
 </p>
 
 </div>
